@@ -315,7 +315,7 @@ textarea, label {
   width: 200px;
   height: 173.20508px;
   float: left;
-  margin-left: -58px;
+  margin-left: -29px;
   z-index: 0;
   position: relative;
   -webkit-transform: rotate(30deg);
@@ -427,6 +427,12 @@ textarea, label {
       -ms-transform: rotate(120deg);
       -o-transform: rotate(120deg);
       transform: rotate(120deg); }
+      .hex-item div:nth-child(4) {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg); }
 
 .hex-content {
   color: #fff;
