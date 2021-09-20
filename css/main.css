@@ -307,7 +307,7 @@ textarea, label {
   background-size: cover;
   vertical-align: middle; }
   .page-home .overlay {
-    background-color: rgba(0, 0, 0, 0.664); }
+    background-color: rgba(0, 0, 0, 0.705); }
 
 /* End of container */
 .hexagon-item {
@@ -427,12 +427,6 @@ textarea, label {
       -ms-transform: rotate(120deg);
       -o-transform: rotate(120deg);
       transform: rotate(120deg); }
-      .hex-item div:nth-child(4) {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -ms-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        transform: rotate(180deg); }
 
 .hex-content {
   color: #fff;
